@@ -1,6 +1,6 @@
 # Flappy Bird React Game
 
-A modern implementation of the classic Flappy Bird game built with React and Phaser 3. Play it here: [Your Deployed Game URL]
+A modern implementation of the classic Flappy Bird game built with React and Phaser 3. Play it here:  flappy-bird-beryl-chi.vercel.app 
 
 ![Flappy Bird Game Screenshot]
 
